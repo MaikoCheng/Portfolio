@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9da97d19.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ee86b7c7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ee86b7c7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.16f22c79.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.16f22c79.js.map",
+    "static/js/2.4740d943.chunk.js": "/Portfolio/static/js/2.4740d943.chunk.js",
+    "static/js/2.4740d943.chunk.js.map": "/Portfolio/static/js/2.4740d943.chunk.js.map",
+    "static/js/3.fa6205af.chunk.js": "/Portfolio/static/js/3.fa6205af.chunk.js",
+    "static/js/3.fa6205af.chunk.js.map": "/Portfolio/static/js/3.fa6205af.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.9da97d19.chunk.css.map": "/Portfolio/static/css/main.9da97d19.chunk.css.map",
+    "static/js/2.4740d943.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.4740d943.chunk.js.LICENSE.txt",
+    "static/media/Chest.12526a9c.gif": "/Portfolio/static/media/Chest.12526a9c.gif",
+    "static/media/Drink.ea44b52f.png": "/Portfolio/static/media/Drink.ea44b52f.png",
+    "static/media/dj.27eacc5c.png": "/Portfolio/static/media/dj.27eacc5c.png",
+    "static/media/fluid.c4960c19.png": "/Portfolio/static/media/fluid.c4960c19.png",
+    "static/media/gelol.f49bdbe1.png": "/Portfolio/static/media/gelol.f49bdbe1.png",
+    "static/media/social.f053da67.png": "/Portfolio/static/media/social.f053da67.png",
+    "static/media/socials.5b41b7c9.png": "/Portfolio/static/media/socials.5b41b7c9.png",
+    "static/media/video2.dd3af8ba.mp4": "/Portfolio/static/media/video2.dd3af8ba.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f22c79.js",
+    "static/js/2.4740d943.chunk.js",
+    "static/css/main.9da97d19.chunk.css",
+    "static/js/main.ee86b7c7.chunk.js"
+  ]
+}
